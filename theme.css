@@ -218,7 +218,8 @@ nav ul .p-nav-item a .b-list-label {
 li.user-action.b-userAction-item a,
 .button.button--hollow,
 .dropdown,
-.source-quote {
+.source-quote,
+div.spoiler, .p-comment-wrapper p{
 	border-radius: 0;
 	background-color: #75715E;
 	border-color: #E6DB74;
